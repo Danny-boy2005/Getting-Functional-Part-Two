@@ -1,7 +1,7 @@
 //DO NOT CHANGE CODE HERE
 var customers = require('./customers.json');
 //DO NOT CHANGE CODE HERE
-console.log(customers)
+console.log(customers[2].name)
 
 
 
